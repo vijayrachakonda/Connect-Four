@@ -1,0 +1,45 @@
+.square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 6rem;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 6rem;
+  }
+
+  .square:focus {
+    outline: none;
+  }
+
+  #R {
+    height: 4rem;
+    width: 4rem;
+    background-color:red;
+    border-radius: 50%;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  #B {
+    height: 4rem;
+    width: 4rem;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+  }
