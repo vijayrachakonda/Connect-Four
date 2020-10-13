@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple implementation of Connect Four created in ReactJS. I did borrow some of the styling and code from the the Tic Tac Toe tutorial on the ReactJS documentation website. Here is the link to that: https://reactjs.org/tutorial/tutorial.html, and the code is in a codepen: https://codepen.io/gaearon/pen/gWWZgR?editors=0010. To run the app you can just clone the repository on to your local machine and type 'npm start' or 'npm run start' in the project directory in the terminal to run the app in development mode.
+
+A few notes on the app:
+
+  -I realize I should have used a 2D array for a board representation, but since I started out using some code from the Tic Tac Toe tutorial, I just decided to   stick with a 1D array which was used in the tutorial.
+  
+  -I plan to make this an online connect four app and deploy this to heroku so stay tuned.
 ## Available Scripts
 
 In the project directory, you can run:
